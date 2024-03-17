@@ -43,7 +43,7 @@ function App() {
       <button className={[classes.time, classes.timeitem].join(' ')}>Time</button>
       <button className={classes.time}>Heart Rate</button>
       </div>
-      <button className={classes.buy}>Buy now</button>
+      <button className={classes.buy}>Buynow</button>
       </div>
       </div>
     </div>
