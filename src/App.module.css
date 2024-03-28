@@ -35,7 +35,7 @@ body{
 
 .watchtime{
   position:absolute;
-  top:20%;
+  top:40%;
   left: 31%;
   transform: translate(-50%, -50%);
   color: white;
@@ -45,7 +45,7 @@ body{
 
 .watchheart{
   position:absolute;
-  top:20%;
+  top:40%;
   left: 31%;
   transform: translate(-50%, -50%);
   color: white;
